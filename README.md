@@ -7,7 +7,7 @@ Generate beautiful, shareable developer profile cards from any GitHub username �
 
 ![GitHub Dev Cards](https://img.shields.io/badge/Built%20with-FastAPI%20%7C%20Google%20ADK%20%7C%20MCP-blue)
 
-##🌐 Live Deployment
+🌐 Live Deployment
 
 🔗 Frontend Web App : https://github-card-frontend-498970929990.us-central1.run.app
 
